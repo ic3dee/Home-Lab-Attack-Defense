@@ -1,4 +1,4 @@
-# EDR-Home-Lab-Attack-and-Defense
+# EDR-Home Lab Attack and Defense
 
 [Project:](https://github.com/jerrterrell/EDR-Attack-and-Defense#project)
 
